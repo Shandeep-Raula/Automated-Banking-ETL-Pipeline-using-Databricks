@@ -32,3 +32,6 @@ The pipeline automatically:
 | Databricks Workflows | Scheduling |
 | Power BI / Tableau | Reporting |
 
+
+## Pipline Graph
+![](SQL Pipeline.png)
