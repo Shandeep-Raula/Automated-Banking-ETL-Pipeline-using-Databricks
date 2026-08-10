@@ -34,4 +34,4 @@ The pipeline automatically:
 
 
 ## Pipline Graph
-![](SQL Pipeline.png)
+![](SQL_Pipeline.png)
